@@ -12,3 +12,6 @@ aws codecommit create-repository --repository-name sam-app
         "Arn": "arn:aws:codecommit:us-west-2:778594173938:sam-app"
     }
 }
+
+GITHUB PAT TOKEN
+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
