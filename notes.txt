@@ -1,0 +1,14 @@
+aws codecommit create-repository --repository-name sam-app
+
+{
+    "repositoryMetadata": {
+        "accountId": "778594173938",
+        "repositoryId": "99a58f2a-77e3-4559-95b6-2d443831cfb9",
+        "repositoryName": "sam-app",
+        "lastModifiedDate": "2023-10-27T07:26:11.923000+00:00",
+        "creationDate": "2023-10-27T07:26:11.923000+00:00",
+        "cloneUrlHttp": "https://git-codecommit.us-west-2.amazonaws.com/v1/repos/sam-app",
+        "cloneUrlSsh": "ssh://git-codecommit.us-west-2.amazonaws.com/v1/repos/sam-app",
+        "Arn": "arn:aws:codecommit:us-west-2:778594173938:sam-app"
+    }
+}
